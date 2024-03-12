@@ -1,0 +1,11 @@
+export { default as Hero } from "./hero";
+export { default as Navbar } from "./navbar";
+export { default as Why } from "./why";
+export { default as TopCategory } from "./top_categories";
+export { default as About } from "./about";
+export { default as ShopMate } from "./shopmate";
+export { default as FAQ } from "./faq";
+export { default as NewsLetter } from "./newsletter";
+export { default as Footer } from "./footer";
+export { default as AboutHero } from "./aboutHero";
+export { default as ShopmateWorks } from "./shopmateWork";
